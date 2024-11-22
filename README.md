@@ -21,7 +21,7 @@ Unity
 │ │ ├── Edit Mode/
 │ │ │ └── DirectionTest.cs
 │ │ └── Play Mode/
-│ │ └── MoveTests.cs
+│ │   └── MoveTests.cs
 ```
 
 ### Scripts Description
